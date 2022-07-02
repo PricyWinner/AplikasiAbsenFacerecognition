@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035642362243",
+    "project_id": "abseniot",
+    "storage_bucket": "abseniot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035642362243:android:a7e14212ea63ac89ad3eb6",
+        "android_client_info": {
+          "package_name": "com.alexander.abseniot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035642362243-2nfq05qnj2t86noicmfo8jevuvqlnl3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpnSKR36IgVsxpL9ffX9PX8zFwIbXC2Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035642362243-2nfq05qnj2t86noicmfo8jevuvqlnl3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
